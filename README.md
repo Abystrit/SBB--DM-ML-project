@@ -42,7 +42,7 @@ The KNN (k-nearest neighbors) model performed relatively poorly, with a precisio
 
 Both the random forest classifier and the decision tree classifier had similar performance, with precision scores of 0.42 and 0.3, respectively. These models are decision tree-based models that can be prone to overfitting, especially if the trees are deep and the data is not sufficiently diverse. This may have contributed to their relatively lower performance compared to the logistic regression model
 
-Our SBB_model has a precision score of 0.54 when evaluated on a test set. This suggests that the model is able to accurately predict the difficulty of French written texts with a high degree of accuracy. It is worth noting that the specific techniques and algorithms used, as well as the hyperparameter optimization that was performed, likely contributed to the model's performance.
+Our SBB_model has a precision score of 0.54 when evaluated on a test set. This suggests that the model is able to accurately predict the difficulty of French written texts with a higher degree of accuracy. It is worth noting that the specific techniques and algorithms used, as well as the hyperparameter optimization that was performed, likely contributed to the model's performance.
 
 
 ## Explicative video presentation of our model
