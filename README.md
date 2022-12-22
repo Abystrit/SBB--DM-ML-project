@@ -47,6 +47,8 @@ Our SBB_model has a precision score of 0.54 when evaluated on a test set. This s
 
 ## Explicative video presentation of our model
 
+[![Alt text](https://i9.ytimg.com/vi/UL3-dZESJaM/mqdefault.jpg?sqp=CIjXkp0G-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGFQgXihlMA8=&rs=AOn4CLDNwu5y-8nth5hBX4pR3ZOFc3Yxgw)](https://www.youtube.com/watch?v=UL3-dZESJaM)
+
 ## Conclusion
 
 We buid a model that is pretty accurate, but how would we be able to improve our model ? Lack of data can be a major obstacle as it is necessary for training and evaluating models. Insufficient data can lead to underfitting, where a model does not accurately capture the underlying patterns in the data. To improve model performance, it is important to gather and utilize as much relevant data as possible, and maybe with a larger number of data we could have had a better prediction.
