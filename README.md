@@ -36,7 +36,7 @@ In the following table we'll have a sum up of our models including accuracy, rec
 
 ![Alt text](https://www.dropbox.com/scl/fi/418cuwze2inl2po99dg0y/CV.docx?dl=0&rlkey=uvd71s7t4ruw0kueg6c4wwr9l)
 
-Based on the results seen before, it appears that the logistic regression model is a simple and efficient model that is well-suited for binary classification tasks, such as predicting the difficulty of a French written text.
+Based on the results seen before, it appears that the logistic regression model is a simple and efficient model that is well-suited for classification tasks, such as predicting the difficulty of a French written text.
 
 The KNN (k-nearest neighbors) model performed relatively poorly, with a precision of 0.32. This may be because KNN is a more complex model that requires a larger amount of data to train and may not perform as well on smaller datasets. Additionally, KNN can be sensitive to the choice of hyperparameters, such as the value of k, which may have affected its performance.
 
@@ -44,10 +44,6 @@ Both the random forest classifier and the decision tree classifier had similar p
 
 Our SBB_model has a precision score of 0.54 when evaluated on a test set. This suggests that the model is able to accurately predict the difficulty of French written texts with a high degree of accuracy. It is worth noting that the specific techniques and algorithms used, as well as the hyperparameter optimization that was performed, likely contributed to the model's performance.
 
-## Confusion Matrix
-
-
-With example of good and bad predictions.
 
 ## Explicative video presentation of our model
 
